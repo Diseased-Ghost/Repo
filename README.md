@@ -1,0 +1,2 @@
+# Wanna-die
+Wanna die
