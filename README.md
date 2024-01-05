@@ -1,2 +1,1 @@
-# Wanna-die
-Wanna die
+Repo wurde als Vorlage zum Öffnen von Codspaces auf diesem Konto verwendet!
